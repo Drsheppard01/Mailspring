@@ -82,7 +82,7 @@
     "npm": ">=7",
     "prettier": "^1.10.0",
     "request": "^2.88.0",
-    "rimraf": "^2.6.1",
+    "rimraf": "^6.0.1",
     "targz": "^1.0.1",
     "temp": "0.8.x",
     "typescript": "3.9.7",
