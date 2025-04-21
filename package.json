@@ -71,7 +71,7 @@
     "glob": "7.x.x",
     "grunt": "^1.5.3",
     "grunt-cli": "^1.5.0",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.8",
     "jasmine": "2.x.x",
     "joanna": "^0.0.8",
     "license-extractor": "^1.0.4",
