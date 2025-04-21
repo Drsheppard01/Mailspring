@@ -2,12 +2,12 @@ name: Build for Linux
 
 on:
   workflow_dispatch:
-    branches: master
+    branches: main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: ubuntu:18.04
+    container: ubuntu:24.04
 
     steps:
       - name: Install deps
