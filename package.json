@@ -44,7 +44,7 @@
     "@types/slate-plain-serializer": "^0.6.1",
     "@types/slate-react": "^0.22.1",
     "@types/source-map-support": "^0.4.2",
-    "@types/temp": "^0.8.33",
+    "@types/temp": "^0.9.4",
     "@types/underscore": "^1.13.0",
     "@types/underscore.string": "^0.0.41",
     "@types/uuid": "^10.0.0",
@@ -84,7 +84,7 @@
     "request": "^2.88.0",
     "rimraf": "^6.0.1",
     "targz": "^1.0.1",
-    "temp": "0.8.x",
+    "temp": "0.9.x",
     "typescript": "3.9.7",
     "underscore": "^1.13.7"
   },
