@@ -76,7 +76,7 @@
     "license-extractor": "^1.0.4",
     "load-grunt-parent-tasks": "^0.1.2",
     "meta-marked": "^0.4.2",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^3.0.1",
     "node-gyp": "^10.0.1",
     "npm": ">=11",
     "prettier": "^3.5.3",
