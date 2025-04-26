@@ -42,7 +42,7 @@
     "@types/slate-html-serializer": "^0.6.3",
     "@types/slate-plain-serializer": "^0.6.1",
     "@types/slate-react": "^0.22.1",
-    "@types/source-map-support": "^0.4.2",
+    "@types/source-map-support": "^0.5.10",
     "@types/temp": "^0.9.4",
     "@types/underscore": "^1.13.0",
     "@types/underscore.string": "^0.0.41",
