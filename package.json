@@ -64,7 +64,7 @@
     "gitbook-plugin-anchors": "^0.7.1",
     "gitbook-plugin-editlink": "^1.0.2",
     "gitbook-plugin-favicon": "0.0.2",
-    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-github": "^3.0.0",
     "gitbook-plugin-theme-api": "^1.1.2",
     "glob": "11.0.2",
     "grunt": "^1.6.1",
