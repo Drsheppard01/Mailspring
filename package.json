@@ -76,7 +76,7 @@
     "load-grunt-parent-tasks": "^0.1.2",
     "meta-marked": "^0.5.0",
     "mkdirp": "^3.0.1",
-    "node-gyp": "^10.0.1",
+    "node-gyp": "^11.2.0",
     "npm": ">=11",
     "prettier": "^3.5.3",
     "request": "^2.88.0",
