@@ -34,7 +34,7 @@
     "@types/react-dom": "^16.8.2",
     "@types/react-test-renderer": "^19.1.0",
     "@types/react-transition-group": "^4.4.12",
-    "@types/reflux": "^6.4.2",
+    "@types/reflux": "^6.4.6",
     "@types/rx-lite": "^4.0.10",
     "@types/slate": "^0.47.16",
     "@types/slate-base64-serializer": "^0.2.5",
