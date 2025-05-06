@@ -21,7 +21,7 @@
     "@types/event-kit": "^2.4.4",
     "@types/fs-plus": "^3.0.6",
     "@types/graceful-fs": "^4.1.9",
-    "@types/jasmine": "^5.1.7",
+    "@types/jasmine": "^5.1.8",
     "@types/mkdirp": "^1.0.2",
     "@types/moment-round": "^1.0.6",
     "@types/mousetrap": "^1.6.15",
