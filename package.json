@@ -47,7 +47,7 @@
     "@types/underscore.string": "^0.0.41",
     "@types/uuid": "^10.0.0",
     "@typescript-eslint/eslint-plugin": "^8.32.0",
-    "@typescript-eslint/parser": "^8.31.1",
+    "@typescript-eslint/parser": "^8.32.1",
     "chalk": "5.x.x",
     "devtron": "^1.4.0",
     "electron": "36.1.0",
